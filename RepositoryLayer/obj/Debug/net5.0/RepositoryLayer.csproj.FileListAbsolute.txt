@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.deps.json
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.runtimeconfig.json
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.runtimeconfig.dev.json
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.dll
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\bin\Debug\net5.0\ref\RepositoryLayer.dll
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.pdb
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.dll
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\obj\Debug\net5.0\ref\RepositoryLayer.dll
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.pdb
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.genruntimeconfig.cache
+C:\Users\User\source\repos\WebApplication1\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.csproj.AssemblyReference.cache

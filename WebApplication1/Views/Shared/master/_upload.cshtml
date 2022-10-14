@@ -1,0 +1,35 @@
+﻿
+<button type="button" id="btnpopup" style="display:none;" class="btn btn-primary" data-toggle="modal" data-target="#uploadmodal">
+    Launch demo modal
+</button>
+<!-- Modal -->
+<div class="modal fade" id="uploadmodal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Employee Profile</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-lg-8">
+                    
+                        <img class="img-responsive img-thumbnail" style="height:250px;width:250px" id="popupimage" src=""/>
+                    </div>
+
+                    <div class="col-lg-8" offset-2>
+                        <input type="file"  accept="images/*" multiple onchange="funtionupload()" id="imgupload" class="form-control" />
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer" offset-2>
+                <a href="#" type="button" class="btn btn-secondary" data-dismiss="modal">Close</a>
+                <a href="#" type="button" class="btn btn-danger" data-dismiss="modal" onclick="RemoveImage()">Remove</a>
+                <input type="hidden" id="currentemcode" />
+            </div>
+        </div>
+    </div>
+</div>
+
